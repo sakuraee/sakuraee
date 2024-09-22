@@ -1,7 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.sakuraee"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
 </p>
 
 <p align="center">
