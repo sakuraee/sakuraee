@@ -1,4 +1,9 @@
 <!-- https://github.com/kyechan99/capsule-render -->
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.sakuraee"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+</p>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20sakuraee!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
