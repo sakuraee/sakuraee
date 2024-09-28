@@ -1,8 +1,27 @@
 <!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.sakuraee"></a>
-</p>
- 
+
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.sakuraee"></a>
+
+
+### Hi👋 I'm Sakuraee (lwt)
+### Finding job now /(ㄒoㄒ)/~~ FrontEnd/FullStack(Node prefer) Engineer （Any City But Famous Company✊）
+### （PS : If you have any suitable entrepreneurial ideas, I am eager to be your partner😘.）
+### My status
+- 👨‍💻 Web Developer
+- 🧑‍🎓 Student，class of 2023 CQJTU
+- 💼 Location China XiAn 
+- ✉️ 1377477209@qq.com
+- ❤️ Hobby : computer game / literature
+- 😊 Personal Blog :  https://blog.sakuraee.com
+
+###
+### Skill Stack
+- Language ： HTML/JavaScript/Typescript/CSS （Python a little）
+- FrameWork : React(mainly) Flutter/Taro Vue with bundling tools webpack/vite
+- Tool Always Used ：Ant-design Antd-V Umi Tara TailWind less Koa
+###
+
+
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=sakuraee&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
