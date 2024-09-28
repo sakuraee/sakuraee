@@ -20,7 +20,10 @@
 - FrameWork : React(mainly) Flutter/Taro Vue with bundling tools webpack/vite
 - Tool Always Used ：Ant-design Antd-V Umi Tara TailWind less Koa
 ###
-
+### Next Step
+- Find a better Job
+- If the fist one hasn't been completed for a long time , maybe I hava time to make a great opensource project earn some followers and stars hahaha😴)
+###
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
