@@ -23,7 +23,7 @@
  
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/sakuraae"><img src="https://img.shields.io/badge/GitHub-sakuraee-blue?logo=github" /></a>
+<a href="https://github.com/sakuraee"><img src="https://img.shields.io/badge/GitHub-sakuraee-blue?logo=github" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=sakuraee&abbreviated=true&color=yellow" />
 </p>
